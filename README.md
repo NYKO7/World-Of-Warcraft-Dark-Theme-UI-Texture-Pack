@@ -9,21 +9,21 @@ Download, unpack and place "World-Of-Warcraft-Dark-Theme-UI-Texture-Pack" files 
 
 Your "Interface" folder after installation should look like this:
 
-![alt text](https://imgur.com/a/szWBs1h)
+![alt text](https://imgur.com/a/szWBs1h.png)
 
 This Texture Pack contains:
 
 ### Dark UnitFrames
 
-![](https://imgur.com/a/dvgsxcu)
+![](https://imgur.com/a/dvgsxcu.png)
 
 ### Dark ActionBars
 
-![](https://imgur.com/a/Si57Fcu)
+![](https://imgur.com/a/Si57Fcu.png)
 
 ### Dark Minimap & WorldMap
 
-![](https://imgur.com/a/D1RYX2m)
+![](https://imgur.com/a/D1RYX2m.png)
 
 ### Dark ArenaFrames
 
@@ -31,41 +31,41 @@ This Texture Pack contains:
 
 ### Dark Bags
 
-![](https://imgur.com/a/URLaiSw)
+![](https://imgur.com/a/URLaiSw.png)
 
 ### Dark Chat
 
-![](https://imgur.com/a/CO6TX8B)
+![](https://imgur.com/a/CO6TX8B.png)
 
 ### Dark InGame Shop
 
-![](https://imgur.com/a/43Sdp6B)
+![](https://imgur.com/a/43Sdp6B.png)
 
 ### Dark Login Textures
 
 ### Dark Character Selection textures
 
-![](https://imgur.com/a/lDp8C0h)
+![](https://imgur.com/a/lDp8C0h.png)
 
 ### Dark Realm Selection textures
 
-![](https://imgur.com/a/NzIM9ru)
+![](https://imgur.com/a/NzIM9ru.png)
 
 ### Dark Menu and Settings
 
-![](https://imgur.com/a/8GtWrkP)
+![](https://imgur.com/a/8GtWrkP.png)
 
 ### Dark Tootip
 
-![](https://imgur.com/a/8Y1tGD7)
+![](https://imgur.com/a/8Y1tGD7.png)
 
 ### Dark Chat Bubbles
 
-![](https://imgur.com/a/ZEgjYsw)
+![](https://imgur.com/a/ZEgjYsw.png)
 
 ### and every other frame texture was changed to dark color.
 
-![](https://imgur.com/a/O8bc33z)
+![](https://imgur.com/a/O8bc33z.png)
 
 
 
@@ -74,12 +74,12 @@ This Texture Pack contains:
 If you want PlayerFrame and TargetingFrame with colored name background by class/mob type & Tooltip without healthbar at the bottom download this AddOn:
 Default:
 
-![](https://imgur.com/a/qOJLz8N)
+![](https://imgur.com/a/qOJLz8N.png)
 
 
 With AddOn:
 
-![](https://imgur.com/a/g5baWIN)
+![](https://imgur.com/a/g5baWIN.png)
 
 
 
