@@ -9,22 +9,23 @@ Download, unpack and place "World-Of-Warcraft-Dark-Theme-UI-Texture-Pack" files 
 
 Your "Interface" folder after installation should look like this:
 
-![Imgur](![mvMlmEQ](https://user-images.githubusercontent.com/34164362/165373357-130a4599-6f5c-4e14-8664-1f348a50aa4a.png)
+![mvMlmEQ](https://user-images.githubusercontent.com/34164362/165373357-130a4599-6f5c-4e14-8664-1f348a50aa4a.png)
 
 
 This Texture Pack contains:
 
 ### Dark UnitFrames
 
-![](![image](https://user-images.githubusercontent.com/34164362/165373423-53de10f7-4caf-498e-a8b0-56cf5bb8b2ab.png)
+![image](https://user-images.githubusercontent.com/34164362/165373423-53de10f7-4caf-498e-a8b0-56cf5bb8b2ab.png)
 
 ### Dark ActionBars
 
-![](https://imgur.com/a/Si57Fcu.png)
+![image](https://user-images.githubusercontent.com/34164362/165373576-25088e74-ae98-4550-972d-fd900d557e9c.png)
+
 
 ### Dark Minimap & WorldMap
 
-![](https://imgur.com/a/D1RYX2m.png)
+![image](https://user-images.githubusercontent.com/34164362/165373600-ee5ffd6c-436d-4ea2-9106-bdce18b9f1ee.png)
 
 ### Dark ArenaFrames
 
@@ -32,41 +33,41 @@ This Texture Pack contains:
 
 ### Dark Bags
 
-![](https://imgur.com/a/URLaiSw.png)
+![image](https://user-images.githubusercontent.com/34164362/165373615-70d8e7b8-d3a3-478d-9746-7416c48eef67.png)
 
 ### Dark Chat
 
-![](https://imgur.com/a/CO6TX8B.png)
+![image](https://user-images.githubusercontent.com/34164362/165373644-1cf53bd1-bf11-48b0-8cb5-ad01635adc71.png)
 
 ### Dark InGame Shop
 
-![](https://imgur.com/a/43Sdp6B.png)
+![image](https://user-images.githubusercontent.com/34164362/165373677-4081f913-cc59-40b2-afaf-60ac84695ce9.png)
 
 ### Dark Login Textures
 
 ### Dark Character Selection textures
 
-![](https://imgur.com/a/lDp8C0h.png)
+![image](https://user-images.githubusercontent.com/34164362/165373704-a52f0ccc-98c2-4041-8ae3-94896c15ff97.png)
 
 ### Dark Realm Selection textures
 
-![](https://imgur.com/a/NzIM9ru.png)
+![image](https://user-images.githubusercontent.com/34164362/165373733-82c7822c-667d-46b9-880c-50148961164d.png)
 
 ### Dark Menu and Settings
 
-![](https://imgur.com/a/8GtWrkP.png)
+![image](https://user-images.githubusercontent.com/34164362/165373761-595ec88e-75bf-48ef-9250-752e56c82d20.png)
 
 ### Dark Tootip
 
-![](https://imgur.com/a/8Y1tGD7.png)
+![image](https://user-images.githubusercontent.com/34164362/165373782-e2ac3cdb-8074-44b8-813e-41286fc669a8.png)
 
 ### Dark Chat Bubbles
 
-![](https://imgur.com/a/ZEgjYsw.png)
+![image](https://user-images.githubusercontent.com/34164362/165373865-9b3249d9-0315-4d7b-ad64-9cf229de1ffd.png)
 
 ### and every other frame texture was changed to dark color.
 
-![](https://imgur.com/a/O8bc33z.png)
+![image](https://user-images.githubusercontent.com/34164362/165373886-3dbd8e1e-0929-4f1a-b9ec-9889a61cd7c1.png)
 
 
 
@@ -75,12 +76,12 @@ This Texture Pack contains:
 If you want PlayerFrame and TargetingFrame with colored name background by class/mob type & Tooltip without healthbar at the bottom download this AddOn:
 Default:
 
-![](https://imgur.com/a/qOJLz8N.png)
+![image](https://user-images.githubusercontent.com/34164362/165373912-de774115-dee3-4932-aae4-a2d6f5950aa0.png)
 
 
 With AddOn:
 
-![](https://imgur.com/a/g5baWIN.png)
+![image](https://user-images.githubusercontent.com/34164362/165373936-d949d536-cc32-46d8-996a-5a7de2aaf180.png)
 
 
 
