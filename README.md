@@ -9,14 +9,14 @@ Download, unpack and place "World-Of-Warcraft-Dark-Theme-UI-Texture-Pack" files 
 
 Your "Interface" folder after installation should look like this:
 
-![Imgur](https://imgur.com/a/szWBs1h.png)
-<img src="https://imgur.com/a/szWBs1h.png"/>
+![Imgur](![mvMlmEQ](https://user-images.githubusercontent.com/34164362/165373357-130a4599-6f5c-4e14-8664-1f348a50aa4a.png)
+
 
 This Texture Pack contains:
 
 ### Dark UnitFrames
 
-![](https://imgur.com/a/dvgsxcu.png)
+![](![image](https://user-images.githubusercontent.com/34164362/165373423-53de10f7-4caf-498e-a8b0-56cf5bb8b2ab.png)
 
 ### Dark ActionBars
 
