@@ -9,7 +9,7 @@ Download, unpack and place "World-Of-Warcraft-Dark-Theme-UI-Texture-Pack" files 
 
 Your "Interface" folder after installation should look like this:
 
-![alt text](https://imgur.com/a/szWBs1h.png)
+![Imgur](https://imgur.com/a/szWBs1h.png)
 
 This Texture Pack contains:
 
