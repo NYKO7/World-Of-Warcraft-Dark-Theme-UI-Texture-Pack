@@ -73,7 +73,7 @@ This Texture Pack contains:
 
 # AddOn
 
-If you want PlayerFrame and TargetingFrame with colored name background by class/mob type & Tooltip without healthbar at the bottom download this AddOn: https://www.curseforge.com/wow/addons/darkthemeui
+If you want PlayerFrame and TargetingFrame with colored name background by class/mob type & Tooltip without healthbar at the bottom download this AddOn: https://www.curseforge.com/wow/addons/darkthemeui or https://www.wowinterface.com/downloads/info26287-DarkThemeUI.html
 
 Default:
 
