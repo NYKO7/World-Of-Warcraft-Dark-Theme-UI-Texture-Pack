@@ -1,4 +1,5 @@
 Dark Theme UI Texture Pack
 author: NYKO7_
-version: 2.1
-latest update: 16th November 2022
+version: 2.2
+latest update: 17th November 2022
+download link: https://github.com/nyko7/World-Of-Warcraft-Dark-Theme-UI-Texture-Pack
