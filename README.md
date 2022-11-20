@@ -41,7 +41,7 @@ This is complete texture overhaul to dark version. Texture should work with ever
 
 # How to install Dark Theme UI Texture Pack guide
 
-1. Download AddOn Dark Theme UI from CurseForge or WoWInterface. Having AddOn installed will help you to keep a track with future updates to Texture Pack.
+1. Download AddOn Dark Theme UI from CurseForge or WoWInterface. Having AddOn installed will help you to keep a track with future updates to Texture Pack. Download link: https://www.curseforge.com/wow/addons/darkthemeui
 2. Download Texture Pack (You can do that by clicking on "Code" button and "Download ZIP").
 3. Unpack ZIP file you downloaded. (You might need to download extraction tool like WinRAR or 7-Zip)
 4. Open extracted file and copy the content of the folder into your /World of Warcraft/retail/Interface file. !Its not an AddOn so dont copy it into AddOn folder!
