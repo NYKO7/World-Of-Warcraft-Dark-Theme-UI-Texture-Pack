@@ -1,7 +1,7 @@
 # World Of Warcraft Dark Theme UI Texture Pack
 Complete World Of Warcraft Dragonflight Dark Theme overhaul.
 
-![darktheme](https://imgur.com/a/wPWSGIk)
+![darktheme](https://i.imgur.com/XB0SazX.png)
 
 ## About project
 This is complete texture overhaul to dark version. Texture should work with every AddOn available and there should not be any problems with compatibility. Texture Pack isnt slowing loading times or your game performance.
