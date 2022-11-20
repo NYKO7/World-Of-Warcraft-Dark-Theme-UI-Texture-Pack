@@ -6,6 +6,38 @@ Complete World Of Warcraft Dragonflight Dark Theme overhaul.
 ## About project
 This is complete texture overhaul to dark version. Texture should work with every AddOn available and there should not be any problems with compatibility. Texture Pack isnt slowing loading times or your game performance.
 
+# Texture Pack Features
+* Dark Texture for Realm Selection panel
+* Dark Texture for buttons border
+* Dark Texture for Character creation screen
+* Dark Texture for Character select screen
+* Dark Texture for Blizzard Shop frame
+* Dark Texture for Character panel
+* Dark Texture for World Map
+* Dark Texture for Minimap
+* Dark Texture for Castbar
+* Dark Texture for Actionbars
+* Dark Texture for In-game chat
+* Dark Texture for bags
+* Dark Texture for Game Menu
+* Dark Texture for Options window
+* Dark Texture for Unitframes
+* Dark Texture for Target Frame
+* Dark Texture for Party Frames
+* Dark Texture for Achievement Frame
+* Dark Texture for Talent frame
+* Dark Texture for Profession Frame
+* Dark Texture for LFG frame
+* Dark Texture for AddOn frame
+* Dark Texture for MicroMenu
+* Dark Texture for Calendar
+* Dark Texture for Collection Frame
+* Dark Texture for Guild Frame
+* Flat Textures for reputataions progress
+* Flat Textures for Target nameplates
+* Flat Textures for Professions progress
+* Flat Textures for Objective progress
+* and dark Texture for whole Blizzard UI
 
 # How to install Dark Theme UI Texture Pack guide
 
