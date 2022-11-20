@@ -58,5 +58,5 @@ If you need help with installation or you found some bugs please report it on ou
 https://discord.gg/7hEaWxNMJC
 
 # Support the creator
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/nicolasmasica)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]([paypal.me/nicolasmasica](https://www.paypal.com/donate/?hosted_button_id=UJ73M9SGYNP7N))
 
