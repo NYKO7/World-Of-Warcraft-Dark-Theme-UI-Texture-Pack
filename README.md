@@ -1,4 +1,4 @@
-# World-Of-Warcraft-Dark-Theme-UI-Texture-Pack (Dragonflight Beta version 1.0)
+# World Of Warcraft Dark Theme UI Texture Pack
 Complete World Of Warcraft UI Texture Pack overhaul for Dragonflight pre-patch.
 
 ## About project
