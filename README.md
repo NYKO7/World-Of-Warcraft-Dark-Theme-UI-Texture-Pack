@@ -19,7 +19,7 @@ Your "Interface" folder after installation should look like this:
 ![mvMlmEQ](https://user-images.githubusercontent.com/34164362/165373357-130a4599-6f5c-4e14-8664-1f348a50aa4a.png)
 
 5. Launch the game or restart your game if you had it open already. Game needs to be restarted in order to load new Texture Pack, simple /reload is not enough and wont work.
-6. Enjoy Dark Theme UI Texture Pack. If you experienced any problems or Texture Pack isnt working dont mind asking for help in our discord: https://discord.gg/7hEaWxNMJC
+6. Enjoy Dark Theme UI Texture Pack. If you experienced any problems or Texture Pack isnt working dont mind asking for help in CurseForge comments or Discord (soon).
 
 # Join Discord for help.
 Work in Progress. We will update it soon.
